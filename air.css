@@ -1,0 +1,17 @@
+#title-air{
+    text-align: center
+}
+#search{
+    width: 400px;
+    margin: 10px auto;
+}
+#explain{
+    text-align: center;
+}
+#local{
+    width: 1400px;height:500px;
+}
+#area{
+    width: 1400px;height:500px;
+    border: 200px;
+}
